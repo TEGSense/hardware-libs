@@ -1,0 +1,4 @@
+*-backups/
+*-bak
+output/
+.DS_Store
